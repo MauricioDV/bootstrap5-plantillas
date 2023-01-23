@@ -1,0 +1,7 @@
+**/node_modules
+**/plantilla
+**/sass/custom.css
+**/sass/custom.css.map
+**/sass/custom.scss
+**package-lock.json
+**package.json
